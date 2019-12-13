@@ -1,5 +1,6 @@
 # Eigenface-Fisherface
-Eigenface and Fisherface, use PCA and LDA
+Eigenface and Fisherface for face recognition and detection, use PCA and LDA. Presentation slide / PPT is available to download.
+
 
 
 The main files are
