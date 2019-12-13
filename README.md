@@ -9,5 +9,9 @@ The main files are
 
 - [Eigenface and Fisherface Combination](https://github.com/liangyihuai/Eigenface-Fisherface/blob/master/face%20recognition%20-%20Fisherface%20-%20Liang%20Yihuai.ipynb)
 
-- [to download the image data set](https://github.com/liangyihuai/Eigenface-Fisherface/blob/master/images.rar)
+- [Here to download the image data set](https://github.com/liangyihuai/Eigenface-Fisherface/blob/master/images.rar)
+
+- [Slides](https://github.com/liangyihuai/Eigenface-Fisherface/blob/master/Statistical%20Pattern%20Recognition%20Class%20Presentation%20-%20Liang%20-%201212.pdf)
+
+
 
